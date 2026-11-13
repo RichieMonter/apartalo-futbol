@@ -1,0 +1,13 @@
+Title	URL	Assignees	Puntos	Prioridad	Sprint	Status	Linked pull requests	Sub-issues progress
+HU-01: Cálculo de renta base según horario y fin de semana	https://github.com/RichieMonter/apartalo-futbol/issues/2		8	Must	Sprint 1	Liberación		
+HU-02: Aplicación de recargo opcional por árbitro	https://github.com/RichieMonter/apartalo-futbol/issues/3		8	Must	Sprint 1	Liberación		
+HU-03: Política de reembolso por cancelación anticipada (24h o más)	https://github.com/RichieMonter/apartalo-futbol/issues/4		8	Must	Sprint 1	Liberación		
+HU-04: Política de reembolso por cancelación parcial (entre 6 y 24 horas)	https://github.com/RichieMonter/apartalo-futbol/issues/5		5	Should	Sprint 1	Todo		
+HU-05: Restricción de no reembolso con menos de 6 horas de anticipación	https://github.com/RichieMonter/apartalo-futbol/issues/6		5	Should	Sprint 1	Todo		
+HU-06: Límite de reserva por horas completas y máximo 2 horas seguidas	https://github.com/RichieMonter/apartalo-futbol/issues/7		3	Could	Sprint 1	Todo		
+HU-07: Visualización de colores del equipo favorito en la interfaz	https://github.com/RichieMonter/apartalo-futbol/issues/8		3	Could	Sprint 1	Todo		
+HU-08: Funcionalidad para dividir el pago de la renta entre los jugadores	https://github.com/RichieMonter/apartalo-futbol/issues/9		5	Could	Sprint 1	Todo		
+HU-09: Pantalla informativa de partidos en la entrada del negocio	https://github.com/RichieMonter/apartalo-futbol/issues/10		3	Could	Sprint 1	Todo		
+HU-10: Módulo de consulta de disponibilidad nocturna y costos de luz	https://github.com/RichieMonter/apartalo-futbol/issues/11		3	Could	Sprint 1	Todo		
+HU-11: Registro de capitanes de equipos frecuentes	https://github.com/RichieMonter/apartalo-futbol/issues/12		5	Could	Sprint 1	Todo		
+HU-12: Historial de partidos jugados por cada equipo	https://github.com/RichieMonter/apartalo-futbol/issues/13		3	Could	Sprint 1	Todo		
